@@ -1,4 +1,4 @@
-Github
+#Git and Github Course
 
 Este é um repositório teste para aprender como o Git funciona.
 
